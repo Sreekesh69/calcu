@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(rgb(2, 200, 230),black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+label,h2,p{
+    -webkit-text-fill-color: white;
+}
+
+button:hover{
+    transform:scale(1.20);
+    -webkit-text-fill-color: white;
+    background-color:whitesmoke;
+}
